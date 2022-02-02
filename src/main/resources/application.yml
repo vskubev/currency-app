@@ -1,0 +1,10 @@
+spring:
+  cache:
+    redis:
+      time-to-live: 43200000
+  redis:
+    host: redis-cache
+    port: 6379
+
+currency-layer:
+  api-key: "600a1342d792b0833b1cf2526c344e4f"
