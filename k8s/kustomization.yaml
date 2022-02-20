@@ -1,0 +1,5 @@
+resources:
+  - currency-app-deployment
+  - currency-app-service
+  - redis-cache-deployment
+  - redis-cache-service
